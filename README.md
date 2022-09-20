@@ -76,6 +76,8 @@ The following scripts are used to generate predictions, statistics and visualiza
       - `# model = ModelEsn(model_params, data_set.path_prefix())`
         Run the script
     - Rename generated pred_horizon_### folder to a descriptive name
+  - Snipped of ESN Prediction horizons
+    </br><img src="lorenz_96%2C%20200%2C%201/pred_horizon_esn/pred_horizons_cut.png" alt="ESN prediction" height="300" style="margin:10px"/>
 
 - `combine_graphs`:
   - Produces comparative analysis from two or more models
@@ -87,10 +89,10 @@ The following scripts are used to generate predictions, statistics and visualiza
     - Select it by assigning it to chosen_models (chosen_models = models1)
     - Run the script
     - Rename generated `combined_graphs_###` folder to a descriptive name
-  - Color mapped ESN prediction
-    </br><img src="lorenz_96%2C%20200%2C%201/color_map_esn/animation.gif" alt="Anti-aliasing setting" width="350" style="margin:10px"/>
-  - Color mapped ensemble model prediction
-    </br><img src="lorenz_96%2C%20200%2C%201/color_map_ensemble/animation.gif" alt="Anti-aliasing setting" width="350" style="margin:10px"/>
+  - ESN-LSTM prediction horizon comparison
+    </br><img src="lorenz_96%2C%20200%2C%201/combined_graphs_esn_-_lstm/pred_horizons_cut.png" alt="ESN prediction" height="300" style="margin:10px"/>
+  - ESN-ensemble model prediction horizon comparison
+    </br><img src="lorenz_96%2C%20200%2C%201/combined_graphs_esn_-_ensemble/pred_horizons_cut.png" alt="ESN prediction" height="300" style="margin:10px"/>
 
 - `color_map`:
   - Produces graphic representation of a prediction from one initial condition for each system variable
@@ -106,6 +108,10 @@ The following scripts are used to generate predictions, statistics and visualiza
       - step = 5
     - Run the script
     - Rename generated `color_map_###` folder to a descriptive name
+  - Color mapped ESN prediction
+    </br><img src="lorenz_96%2C%20200%2C%201/color_map_esn/animation.gif" alt="ESN prediction" height="300" style="margin:10px"/>
+  - Color mapped ensemble model prediction
+    </br><img src="lorenz_96%2C%20200%2C%201/color_map_ensemble/animation.gif" alt="Model prediction comparison" height="300" style="margin:10px"/>
 
 - `esn_parameter_sweep`:
   - Run esn model training and possibly prediction sets of parameter values to loop through
