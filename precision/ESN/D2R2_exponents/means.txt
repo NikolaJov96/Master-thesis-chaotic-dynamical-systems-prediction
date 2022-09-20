@@ -1,0 +1,7 @@
+12 bit mantissa, 9 bit exponent: 1.63e+00 ± 4.78e-01
+12 bit mantissa, 8 bit exponent: 1.63e+00 ± 4.78e-01
+12 bit mantissa, 7 bit exponent: 1.63e+00 ± 4.78e-01
+12 bit mantissa, 6 bit exponent: 1.63e+00 ± 4.78e-01
+12 bit mantissa, 5 bit exponent: 1.52e+00 ± 4.47e-01
+12 bit mantissa, 4 bit exponent: 2.90e-02 ± 1.74e-02
+12 bit mantissa, 3 bit exponent: 0.00e+00 ± 0.00e+00

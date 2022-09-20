@@ -90,9 +90,9 @@ The following scripts are used to generate predictions, statistics and visualiza
     - Run the script
     - Rename generated `combined_graphs_###` folder to a descriptive name
   - ESN-LSTM prediction horizon comparison
-    </br><img src="lorenz_96%2C%20200%2C%201/combined_graphs_esn_-_lstm/pred_horizons_cut.png" alt="ESN prediction" height="300" style="margin:10px"/>
+    </br><img src="lorenz_96%2C%20200%2C%201/combined_graphs_esn_-_lstm/pred_horizons_cut.png" alt="ESN LSTM comparison" height="300" style="margin:10px"/>
   - ESN-ensemble model prediction horizon comparison
-    </br><img src="lorenz_96%2C%20200%2C%201/combined_graphs_esn_-_ensemble/pred_horizons_cut.png" alt="ESN prediction" height="300" style="margin:10px"/>
+    </br><img src="lorenz_96%2C%20200%2C%201/combined_graphs_esn_-_ensemble/pred_horizons_cut.png" alt="ESN ensemble comparison" height="300" style="margin:10px"/>
 
 - `color_map`:
   - Produces graphic representation of a prediction from one initial condition for each system variable
@@ -111,7 +111,7 @@ The following scripts are used to generate predictions, statistics and visualiza
   - Color mapped ESN prediction
     </br><img src="lorenz_96%2C%20200%2C%201/color_map_esn/animation.gif" alt="ESN prediction" height="300" style="margin:10px"/>
   - Color mapped ensemble model prediction
-    </br><img src="lorenz_96%2C%20200%2C%201/color_map_ensemble/animation.gif" alt="Model prediction comparison" height="300" style="margin:10px"/>
+    </br><img src="lorenz_96%2C%20200%2C%201/color_map_ensemble/animation.gif" alt="Ensemble model prediction comparison" height="300" style="margin:10px"/>
 
 - `esn_parameter_sweep`:
   - Run esn model training and possibly prediction sets of parameter values to loop through

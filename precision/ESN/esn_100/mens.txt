@@ -1,0 +1,19 @@
+12 bit mantissa, 10 bit exponent: 1.51e-03 ± 9.55e-04
+11 bit mantissa, 10 bit exponent: 3.23e-03 ± 1.95e-03
+10 bit mantissa, 10 bit exponent: 3.56e-03 ± 1.66e-03
+9 bit mantissa, 10 bit exponent:  5.46e-03 ± 1.71e-03
+8 bit mantissa, 10 bit exponent:  7.02e-03 ± 4.25e-03
+7 bit mantissa, 10 bit exponent:  6.10e-03 ± 1.36e-03
+6 bit mantissa, 10 bit exponent:  5.82e-03 ± 4.90e-03
+5 bit mantissa, 10 bit exponent:  4.99e-03 ± 3.21e-04
+4 bit mantissa, 10 bit exponent:  2.89e-02 ± 2.17e-02
+3 bit mantissa, 10 bit exponent:  4.54e-02 ± 5.36e-03
+
+np.array([3.56e-03, 1.66e-03]),
+np.array([5.46e-03, 1.71e-03]),
+np.array([7.02e-03, 4.25e-03]),
+np.array([6.10e-03, 1.36e-03]),
+np.array([5.82e-03, 4.90e-03]),
+np.array([4.99e-03, 3.21e-04]),
+np.array([2.89e-02, 2.17e-02]),
+np.array([4.54e-02, 5.36e-03]),

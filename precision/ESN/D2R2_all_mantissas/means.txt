@@ -1,0 +1,19 @@
+64 bit: 2.00e+00 ± 6.53e-01
+32 bit: 2.00e+00 ± 6.53e-01
+16 bit: 1.86e+00 ± 7.42e-01
+32 bit mantissa, 10 bit exponent: 2.00e+00 ± 6.53e-01
+16 bit mantissa, 10 bit exponent: 2.00e+00 ± 6.56e-01
+15 bit mantissa, 10 bit exponent: 1.99e+00 ± 6.58e-01
+14 bit mantissa, 10 bit exponent: 2.03e+00 ± 7.29e-01
+13 bit mantissa, 10 bit exponent: 2.18e+00 ± 9.53e-01
+12 bit mantissa, 10 bit exponent: 1.83e+00 ± 6.55e-01
+11 bit mantissa, 10 bit exponent: 1.65e+00 ± 6.88e-01
+10 bit mantissa, 10 bit exponent: 1.47e+00 ± 5.99e-01
+9 bit mantissa, 10 bit exponent: 1.47e+00 ± 5.89e-01
+8 bit mantissa, 10 bit exponent: 6.84e-01 ± 1.37e-01
+7 bit mantissa, 10 bit exponent: 4.39e-01 ± 7.14e-02
+6 bit mantissa, 10 bit exponent: 2.31e-01 ± 3.29e-02
+5 bit mantissa, 10 bit exponent: 2.26e-01 ± 3.44e-02
+4 bit mantissa, 10 bit exponent: 6.75e-02 ± 2.50e-03
+3 bit mantissa, 10 bit exponent: 2.55e-02 ± 1.50e-03
+2 bit mantissa, 10 bit exponent: 8.50e-03 ± 2.29e-03

@@ -1,0 +1,10 @@
+12 bit mantissa, 10 bit exponent: 1.30e+00 MTU, std: 1.47e-03
+11 bit mantissa, 10 bit exponent: 1.19e+00 MTU, std: 1.31e-03
+10 bit mantissa, 10 bit exponent: 1.10e+00 MTU, std: 1.30e-03
+9 bit mantissa, 10 bit exponent: 1.09e+00 MTU, std:  1.30e-03
+8 bit mantissa, 10 bit exponent: 6.45e-01 MTU, std:  8.26e-04
+7 bit mantissa, 10 bit exponent: 3.90e-01 MTU, std:  5.39e-04
+6 bit mantissa, 10 bit exponent: 2.15e-01 MTU, std:  1.90e-04
+5 bit mantissa, 10 bit exponent: 2.10e-01 MTU, std:  1.85e-04
+4 bit mantissa, 10 bit exponent: 7.00e-02 MTU, std:  4.52e-05
+3 bit mantissa, 10 bit exponent: 2.50e-02 MTU, std:  5.26e-05
