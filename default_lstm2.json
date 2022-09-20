@@ -1,0 +1,1 @@
+{"n_inp": 8, "tr_skip": 0, "warm_up_size": 3,"tr_len": 80000, "n_hidden": 50, "do_basis_exp": false, "epochs": 100, "batch_size": 200, "batches_per_epoch": 1000, "shuffle": true}

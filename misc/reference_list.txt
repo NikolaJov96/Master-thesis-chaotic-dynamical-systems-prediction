@@ -1,0 +1,19 @@
+1)
+Ashesh Chattopadhyay, Pedram Hassanzadeh, Krishna Palem, and Devika Subramanian
+Jul 2019
+Data-driven prediction of a multi-scale Lorenz 96 chaotic system using a hierarchy of deep learning methods: Reservoir computing, ANN, and RNN-LSTM
+
+2)
+Vlachasa, J Pathakb, BR Huntc,b, TP Sapsisd, M Girvane,b, E Ottb and P Koumoutsakosa
+Oct 2019
+Forecasting of Spatio-temporal Chaotic Dynamics with Recurrent Neural Networks: a comparative study of Reservoir Computing and Backpropagation Algorithms
+
+3)
+Jaideep Pathak, Brian Hunt, Michelle Girvan, Zhixin Lu, and Edward Ott:
+Jan 2018
+Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach
+
+4)
+Jaideep Pathak, Zhixin Lu, Brian R. Hunt, Michelle Girvan, and Edward Ott
+Dec 2017
+Using machine learning to replicate chaotic attractors and calculate Lyapunov exponents from data 
