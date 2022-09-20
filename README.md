@@ -88,9 +88,9 @@ The following scripts are used to generate predictions, statistics and visualiza
     - Run the script
     - Rename generated `combined_graphs_###` folder to a descriptive name
   - Color mapped ESN prediction
-  - ![ESN prediction color map](/lorenz_96%2C%20200%2C%201/color_map_esn/animation.gif)
+    </br><img src="lorenz_96%2C%20200%2C%201/color_map_esn/animation.gif" alt="Anti-aliasing setting" width="350" style="margin:10px"/>
   - Color mapped ensemble model prediction
-  ![ESN prediction color map](/lorenz_96%2C%20200%2C%201/color_map_ensemble/animation.gif)
+    </br><img src="lorenz_96%2C%20200%2C%201/color_map_ensemble/animation.gif" alt="Anti-aliasing setting" width="350" style="margin:10px"/>
 
 - `color_map`:
   - Produces graphic representation of a prediction from one initial condition for each system variable
