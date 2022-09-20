@@ -1,6 +1,6 @@
 # Master thesis: Chaotic dynamical systems prediction
 
-The codebase of my master thesis project, based on the research id participated in during my internships at Rice University. The project deals with predicting chaotic dynamical systems, specifically Lorenz 96, using ESN and LSTM network models. It also includes an examination of the impact of using the reduced precision arithmetic for training and evaluating mentioned models.
+The codebase of my master thesis project, based on the research I participated in during my internships at Rice University. The project deals with predicting chaotic dynamical systems, specifically Lorenz 96, using ESN and LSTM network models. It also includes an examination of the impact of using the reduced precision arithmetic for training and evaluating mentioned models.
 
 The master thesis itself (in Serbian language) can bi found in the file `Master thesis - Chaotic dynamical systems prediction.pdf`.
 
