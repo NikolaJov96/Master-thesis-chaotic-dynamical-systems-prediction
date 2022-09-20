@@ -87,6 +87,10 @@ The following scripts are used to generate predictions, statistics and visualiza
     - Select it by assigning it to chosen_models (chosen_models = models1)
     - Run the script
     - Rename generated `combined_graphs_###` folder to a descriptive name
+  - Color mapped ESN prediction
+  - ![ESN prediction color map](/lorenz_96%2C%20200%2C%201/color_map_esn/animation.gif)
+  - Color mapped ensemble model prediction
+  ![ESN prediction color map](/lorenz_96%2C%20200%2C%201/color_map_ensemble/animation.gif)
 
 - `color_map`:
   - Produces graphic representation of a prediction from one initial condition for each system variable
